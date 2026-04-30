@@ -1,0 +1,78 @@
+body, h1, h2, h3, p, a, .nav-link, .btn, .dropdown-item, .dropdown-header {
+    font-family: 'Fredoka', sans-serif !important;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+
+.navbar-custom {
+    background-color: #ffffff;
+    border-bottom: 4px solid #392061;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    color: #ff006e !important;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.container-custom {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+h1 {
+    color: #ff006e;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.btn-custom {
+    background-color: #ff006e !important;
+    border: none !important;
+    color: white !important;
+    padding: 12px 30px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 50px;
+}
+
+.btn-custom:hover {
+    background-color: #ff6719 !important;
+}
+
+.dropdown-menu {
+    border-radius: 15px;
+    border: 2px solid #ff006e;
+}
+
+.contact-info {
+    margin: 40px 0;
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+footer a {
+    color: #ff6719;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+footer a:hover {
+    color: #ff006e;
+}
+
+.map-container {
+    margin-top: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 3px solid #ff6719;
+    display: inline-block;
+    max-width: 100%;
+}
