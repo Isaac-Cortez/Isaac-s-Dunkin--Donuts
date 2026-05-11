@@ -32,14 +32,18 @@ project name: Isaac's Dunkin' Donuts
 
 -Had family test site, almost no issues
 
+
 <img width="2460" height="1361" alt="Screenshot 2026-05-11 164808" src="https://github.com/user-attachments/assets/9a08a3b5-7d18-4114-a312-6fc4d9b324ff" />
 (desktop view of home page showing off cta hover state)
+
 
 <img width="2458" height="1359" alt="Screenshot 2026-05-11 164827" src="https://github.com/user-attachments/assets/b49461a0-9535-427f-b4dc-b2291355b7ab" />
 (desktop view of menu)
 
+
 <img width="594" height="1238" alt="Screenshot 2026-05-11 164856" src="https://github.com/user-attachments/assets/21bfa769-c735-4e0f-a93b-145403b54c3f" />
 (mobile view of the contact page)
+
 
 -Here is the link to my website: https://isaac-cortez.github.io/Isaac-s-Dunkin--Donuts/
 
