@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
         if (link.getAttribute('href') === currentPath) {
             link.classList.add('active');
         } else {
-            
             link.classList.remove('active');
         }
     });
 
     const orderButtons = document.querySelectorAll('.btn-custom');
+
     orderButtons.forEach(btn => {
         if (btn.innerText.toLowerCase().includes('order now')) {
             btn.addEventListener('click', () => {
@@ -19,3 +19,4 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
     });
+});
