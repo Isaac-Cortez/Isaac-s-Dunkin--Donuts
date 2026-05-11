@@ -28,4 +28,6 @@ project name: Isaac's Dunkin' Donuts
 
 -in the contact page, there is a fully functioning google maps box that is interactable
 
+-Website is responsive and hamburger nav menu works on mobile devices
+
 -Here is the link to my website: https://isaac-cortez.github.io/Isaac-s-Dunkin--Donuts/
