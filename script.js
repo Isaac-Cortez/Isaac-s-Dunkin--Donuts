@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (link.getAttribute('href') === currentPath) {
             link.classList.add('active');
         } else {
-            // Remove active from others to ensure consistency
+            
             link.classList.remove('active');
         }
     });
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     orderButtons.forEach(btn => {
         if (btn.innerText.toLowerCase().includes('order now')) {
             btn.addEventListener('click', () => {
-                window.location.href = 'Menu.html';
+                window.location.href = 'menu.html';
             });
         }
     });
